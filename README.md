@@ -3,15 +3,15 @@ Códigos desenvolvidos como parte de um trabalho para a disciplina de Conceitos 
 
 Integrantes: Gabriel Moura, Renan Pinho e Luis Eduardo Rasch.
 
-## Especificações de compilação e utilização:
+## Especificações de compilação e utilização (Windows):
 
 Linguagem C:
 ```bash
 # Compilação:
-gcc gaussC.c -o gaussC
+gcc gaussC.c -o gaussC.exe
 ```
 ```bash
-./gaussC <dimensões>
+.\gaussC.exe <dimensões>
 ```
 
 Linguagem Go:
